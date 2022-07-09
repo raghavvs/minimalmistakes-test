@@ -59,11 +59,11 @@ plugins:
 
 author:
   name   : >
-            Raghavendra \n
-            \n
+            Raghavendra
+            
             Navaratna
   avatar : "/assets/images/pp.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Engineer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
