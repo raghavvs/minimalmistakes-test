@@ -59,7 +59,8 @@ plugins:
 
 author:
   name   : >
-            Raghavendra 
+            Raghavendra \n
+            \n
             Navaratna
   avatar : "/assets/images/pp.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
