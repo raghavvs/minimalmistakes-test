@@ -58,9 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : |
-            Raghavendra
-            Navaratna
+  name   : "Raghavendra\n 
+            Navaratna"
   avatar : "/assets/images/pp.jpeg"
   bio    : "Engineer."
   links:
@@ -73,9 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - #label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 footer:
   links:
