@@ -59,9 +59,9 @@ plugins:
 
 author:
   name   : >
-            Raghavendra
-            
-            Navaratna
+            "Raghavendra
+            \n
+            Navaratna"
   avatar : "/assets/images/pp.jpeg"
   bio    : "Engineer."
   links:
