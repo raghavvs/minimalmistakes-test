@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   :  Raghavendra
-            |
-            Navaratna
+  name   :  |
+        | Raghavendra
+        | Navaratna
   avatar : "/assets/images/pp.jpeg"
   bio    : "Engineer."
   links:
