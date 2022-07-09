@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Raghavendra Navaratna"
+  avatar : "/assets/images/pp.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
